@@ -3,5 +3,5 @@ package qux
 import "fmt"
 
 func Qux() {
-	fmt.Println("=== qux ===")
+	fmt.Println("qux 001")
 }
