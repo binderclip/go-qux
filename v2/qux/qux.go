@@ -3,5 +3,5 @@ package qux
 import "fmt"
 
 func Qux() {
-	fmt.Println("qux 003")
+	fmt.Println("qux 004")
 }
